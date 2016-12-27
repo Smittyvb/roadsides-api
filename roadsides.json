@@ -75,7 +75,7 @@
     "archive": false,
     "url": "/agassizice",
     "location": "Assiniboine Park, north of walking bridge",
-    "description": "Sculpturer: Gordon Reeve.  http://winnipegarts.ca/wac/artwork/agassiz-ice",
+    "description": "<a href=\"http://winnipegarts.ca/wac/artwork/agassiz-ice\"> Sculpturer: Gordon Reeve.  </a>    ",
     "productionReady": "yes"
   },
   {
@@ -98,7 +98,7 @@
     "archive": false,
     "url": "/airdrietps",
     "location": "Gwacheon Park",
-    "description": "In 2007, six handcrafted totem poles were donated to the City of Airdrie by Gwacheon, Korea to commemorate the 10th year of sharing a sister city relationship. Airdrie residents are welcome to view the totem poles in Gwacheon Park in Airdrie year round. http://www.airdrie.ca/index.cfm?serviceID=640",
+    "description": "In 2007, <a href=\"http://www.airdrie.ca/index.cfm?serviceID=640\">six handcrafted totem poles were donated to the City of Airdrie by Gwacheon, Korea</a> to commemorate the 10th year of sharing a sister city relationship. Airdrie residents are welcome to view the totem poles in Gwacheon Park in Airdrie year round.",
     "productionReady": "yes"
   },
   {
@@ -145,7 +145,7 @@
     "archive": false,
     "url": "/albert",
     "location": "Central New Brunswick Woodmen's Museum. 6342 Route 8 Highway, Boiestown, New Brunswick",
-    "description": "http://www.woodmensmuseum.com/index.html",
+    "description": "<a href=\"http://www.woodmensmuseum.com/index.html\">More info</a>       ",
     "productionReady": "yes"
   },
   {
@@ -157,7 +157,7 @@
     "archive": false,
     "url": "/albertosaurus",
     "location": "Located at the store and gas station/post office\njust southeast of the hamlet of Patricia, Alberta, near\nDinosaur Provincial Park.",
-    "description": "http://www.academia.edu/726701/A_history_of_Albertosaurus-related_popular_culture_events_and_activities_in_Canada",
+    "description": "<a href=\"http://www.academia.edu/726701/A_history_of_Albertosaurus-related_popular_culture_events_and_activities_in_Canada\">More info</a> ",
     "productionReady": "yes"
   },
   {
@@ -169,7 +169,7 @@
     "archive": false,
     "url": "/alertbay",
     "location": "The World’s tallest totem pole is located at the northern end of Cormorant Island next to the Big House.",
-    "description": "At 173 feet tall, the wooden totem in Alert Bay, British Colombia is the tallest in the entire world. However, some dispute this title because it was built in three sections which were then joined together. http://www.atlasobscura.com/places/world-s-largest-totem-pole",
+    "description": "At 173 feet tall, <a href=\"http://www.atlasobscura.com/places/world-s-largest-totem-pole\">the wooden totem in Alert Bay, British Colombia is the tallest in the entire world.</a> However, some dispute this title because it was built in three sections which were then joined together.",
     "productionReady": "yes"
   },
   {
@@ -225,7 +225,7 @@
     "archive": false,
     "url": "/altona",
     "location": "10th Ave. NE, Altona",
-    "description": "Van Gogh's \"Sunflowers.\" Artist: Cameron Cross. This roadside attraction stands 76’6” high and is on a 3-legged steel easel. https://altona.ca/tourism/recreation-leisure/van-goghs-sunflowers/",
+    "description": "Van Gogh's \"Sunflowers.\" Artist: Cameron Cross. <a href=\"https://altona.ca/tourism/recreation-leisure/van-goghs-sunflowers/\">This roadside attraction stands 76’6” high and is on a 3-legged steel easel. </a>",
     "productionReady": "yes"
   },
   {
@@ -282,7 +282,7 @@
     "url": "/amherst",
     "location": "About three blocks south of the Dominion Public Building, on the west side of Victoria Street.",
     "gps": "N 45° 49.887 W 064° 12.859",
-    "description": "One of many carvings done by Bruce Hebert in the community. http://www.brucehebert.com/",
+    "description": "<a href=\"http://www.brucehebert.com/\">One of many carvings done by Bruce Hebert in the community. </a>",
     "productionReady": "yes"
   },
   {
@@ -312,7 +312,7 @@
   {
     "name": "Anchor",
     "credit": "<a href=\"http://www.fiwired.com/\">Holland Landing - Home of fiwired.com</a>",
-    "city": "Holland Landing",
+    "city": "Falher",
     "province": "Ontario",
     "type": "Transportation",
     "archive": false,
@@ -341,7 +341,7 @@
     "archive": false,
     "url": "/anglerfish",
     "location": "May Strett bridge, located between Northern Avenue and Southern Avenue.",
-    "description": "Krzysztof Zukowski\nAngler 4.5m high (14.5'h); fish 3m high (10'h)\nhttp://www.thunderbay.ca/Living/culture_and_heritage/Public_Art/Art_Collection/Outdoor_Installations/the_angler_and_the_fish.htm",
+    "description": "<a href=\"http://www.thunderbay.ca/Living/culture_and_heritage/Public_Art/Art_Collection/Outdoor_Installations/the_angler_and_the_fish.htm\">Artist: Krzysztof Zukowski</a>\nAngler: 4.5m high.  Fish: 3m high.\n",
     "productionReady": "yes"
   },
   {
@@ -353,7 +353,7 @@
     "archive": false,
     "url": "/angus",
     "location": "Outside the Bonnyville & District Museum",
-    "description": "http://town.bonnyville.ab.ca/index.php/living-in-bonnyville/about-bonnyville/history",
+    "description": " <a href=\"http://town.bonnyville.ab.ca/index.php/living-in-bonnyville/about-bonnyville/history\">More info</a>",
     "productionReady": "yes"
   },
   {
@@ -369,14 +369,13 @@
   },
   {
     "name": "Animikii",
-    "credit": "<a href=\"mailto:robpatterson1@hotmail.com>Rob Patterson</a>",
+    "credit": "<a href=\"mailto:robpatterson1@hotmail.com\">Rob Patterson</a>",
     "city": "Thunder Bay",
     "province": "Ontario",
     "type": "Birds",
     "archive": false,
     "url": "/animikii",
-    "location": "22-foot tall \"Animikii - Flies the Thunder\" sculpture by artist Anne Allardyce. http://www.thunderbay.ca/Living/culture_and_heritage/Public_Art/Art_Collection/Outdoor_Installations/Animikii.htm",
-    "description": "http://www.thunderbay.ca/Living/culture_and_heritage/Public_Art/Art_Collection/Outdoor_Installations/Animikii.htm",
+    "description": "  22-foot tall <a href=\"http://www.thunderbay.ca/Living/culture_and_heritage/Public_Art/Art_Collection/Outdoor_Installations/Animikii.htm\">\"Animikii - Flies the Thunder\"</a>  sculpture by artist Anne Allardyce. ",
     "productionReady": "yes"
   },
   {
@@ -444,7 +443,7 @@
     "archive": false,
     "url": "/arborg",
     "location": "Located just outside the Arborg-Bifrost Curling Club.",
-    "description": "The rock measures 4.2 m (13.78 feet) across and 2.1 m (6 ft 10.68 in) tall and weighs 1.5 tonnes.  http://rmbifrost.com/index.php?option=com_content&view=article&id=296:worlds-largest-curling-rock&catid=104:arborg-bifrost&Itemid=69",
+    "description": "<a href=\"http://rmbifrost.com/index.php?option=com_content&view=article&id=296:worlds-largest-curling-rock&catid=104:arborg-bifrost&Itemid=69\">The rock measures 4.2 m across and 2.1 m tall and weighs 1.5 tonnes.  </a>",
     "productionReady": "yes"
   },
   {
@@ -2402,7 +2401,7 @@
   },
   {
     "name": "Large Chairs",
-    "credit": "<a href=\"mailto:bowser@iaw.com>James Bowser</a>",
+    "credit": "<a href=\"mailto:bowser@iaw.com\">James Bowser</a>",
     "city": "Fenwick",
     "province": "Ontario",
     "type": "Furniture",
@@ -3449,7 +3448,7 @@
   },
   {
     "name": "Adirondack Chair",
-    "credit": "<a href=\"mailto:allrightnow@live.ca>Joe Mangiarano</a>",
+    "credit": "<a href=\"mailto:allrightnow@live.ca\">Joe Mangiarano</a>",
     "city": "Durham",
     "province": "Ontario",
     "type": "Furniture",
@@ -4291,7 +4290,7 @@
   },
   {
     "name": "Oil Pumbjack",
-    "credit": "<a href=\"mailto:rch31739@mts.net</a>",
+    "credit": "<a href=\"mailto:rch31739@mts.net\">Bob Hill</a>",
     "city": "Fairview",
     "province": "Alberta",
     "type": "Work/Industrial",
@@ -4451,7 +4450,7 @@
   },
   {
     "name": "Fish Hook",
-    "credit": "<a href=\"mailto:nomad1@nbnet.nb.ca>Victor</a>",
+    "credit": "<a href=\"mailto:nomad1@nbnet.nb.ca\">Victor</a>",
     "city": "Blackville",
     "province": "New Brunswick",
     "type": "Sports",
@@ -4843,7 +4842,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/gbmural",
-    "description": "Llargest mural in Atlantic Canada.",
+    "description": "Largest mural in Atlantic Canada.",
     "productionReady": "yes"
   },
   {
@@ -7020,7 +7019,7 @@
   },
   {
     "name": "Wheat Stalks",
-    "credit": "<a href=\"mailto:ajimreid@shaw.ca</a>",
+    "credit": "<a href=\"mailto:ajimreid@shaw.ca\">Jim Reid</a>",
     "city": "Landis",
     "province": "Saskatchewan",
     "type": "Vegetables/Flowers",
@@ -7607,7 +7606,7 @@
     "archive": false,
     "url": "/marbles",
     "location": "These sculptures were moved from the median on Portage Avenue to the yard around Mayfair Recreation Centre in 2016.",
-    "description": "21 larger-than-life marble sculptures in planters by Erica Swendrowski.  http://winnipegarts.ca/wac/artwork/marbles-on-portage",
+    "description": "<a href=\"http://winnipegarts.ca/wac/artwork/marbles-on-portage\">21 larger-than-life marble sculptures in planters</a> by Erica Swendrowski.  ",
     "productionReady": "yes"
   },
   {
@@ -9034,7 +9033,7 @@
     "archive": false,
     "url": "/noahsark",
     "location": "15906 Highway 17, Cobden, Ontario",
-    "description": "http://www.logosland.com",
+    "description": "<a href=\"http://www.logosland.com\">More info</a>   ",
     "productionReady": "yes"
   },
   {
@@ -9586,7 +9585,7 @@
   },
   {
     "name": "Burrowing Owls",
-    "credit": "<a HREF=\"http://www.leader.ca>Town of Leader</a>",
+    "credit": "<a href=\"http://www.leader.ca\">Town of Leader</a>",
     "city": "Leader",
     "province": "Saskatchewan",
     "type": "Birds",
@@ -11047,7 +11046,7 @@
     "archive": false,
     "url": "/rolphton",
     "location": "~ 8 km east on Hwy. 17",
-    "description": "formerly located at Point Alexander, Ontario",
+    "description": "Formerly located at Point Alexander, Ontario",
     "productionReady": "yes"
   },
   {
@@ -11901,12 +11900,12 @@
   },
   {
     "name": "Snom'n",
-    "credit": "ERS",
+    "credit": "Ed Solonyka",
     "city": "Toronto",
     "province": "Ontario",
     "type": "Miscellaneous",
     "archive": false,
-    "url": "/snom'n",
+    "url": "/snomn",
     "productionReady": "yes"
   },
   {
@@ -12015,7 +12014,7 @@
   },
   {
     "name": "Spider",
-    "credit": "<a target=\"_blank\" href=\"mailto:ajimreid@shaw.ca\"><font size=\"3</a>",
+    "credit": "<a href=\"mailto:ajimreid@shaw.ca\">James Reid</a>",
     "city": "Pierceland",
     "province": "Saskatchewan",
     "type": "Insects",
@@ -12072,7 +12071,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/spirit",
-    "description": "1986 - Collection of the MacLaren Art Centre",
+    "description": "Collection of the MacLaren Art Centre",
     "productionReady": "yes"
   },
   {
@@ -14016,7 +14015,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/wdeer",
-    "location": "680 Josephine St, Wingham, Ontario, outside The Hunter’s Haven Rod and Gun Shop - http://www.thehuntershaven.com/store/",
+    "location": "680 Josephine St, Wingham, Ontario, outside <a href=\" http://www.thehuntershaven.com/store/\">The Hunter’s Haven Rod and Gun Shop</a>",
     "productionReady": "yes"
   },
   {
@@ -14666,7 +14665,7 @@
     "archive": false,
     "url": "/wheatmelville",
     "location": "Highway 10, at Welcome sign, west of Melville.",
-    "description": "http://www.melville.ca/content/silhouettes-melville",
+    "description": "<a href=\"http://www.melville.ca/content/silhouettes-melville\">More info</a> ",
     "initDate": "17 July 2016",
     "productionReady": "yes"
   },
@@ -14767,7 +14766,7 @@
     "url": "/lcra1450",
     "location": "4928 50th Avenue, Vegreville, Alberta. This horse is perched on top of Cole's Western Wear.",
     "gps": "N53°29.666 W112°03.109",
-    "description": "http://www.coleswesternwear.com/",
+    "description": "<a href=\"http://www.coleswesternwear.com/\">More info</a>",
     "initDate": "29 August 2016",
     "productionReady": "yes"
   },
@@ -14781,7 +14780,7 @@
     "url": "/lcra1451",
     "location": "395 Princess St, Kingston, Ontario, at the Grizzly Grill.",
     "gps": "N44°13.985 W76°29.518",
-    "description": "http://www.thegrizzlygrill.ca/",
+    "description": "<a href=\"http://www.thegrizzlygrill.ca/\">More info</a>",
     "initDate": "29 August 2016",
     "productionReady": "yes"
   },
@@ -14808,7 +14807,7 @@
     "url": "/lcra1453",
     "location": "Mariner's Cove Boardwalk, 8863 Cavendish Road, Cavendish, PEI.",
     "gps": "N46°29.228 W63°23.792",
-    "description": "Outside Ripley's Believe It or Not.  http://www.ripleys.com/cavendishbeach/",
+    "description": "Outside <a href=\"http://www.ripleys.com/cavendishbeach/\">Ripley's Believe It or Not.  </a>",
     "initDate": "31 August 2016",
     "productionReady": "yes"
   },
@@ -14867,7 +14866,7 @@
   {
     "name": "Scuba Diver",
     "credit": "<a href=\"mailto:hirning@shaw.ca\">Lorraine Hirning</a>",
-    "city": "<a Href=\"mailto:hirning@shaw.ca\">Lorraine Hirning</a>",
+    "city": "Sidney",
     "province": "British Columbia",
     "type": "People",
     "archive": false,
@@ -14913,7 +14912,7 @@
     "url": "/lcra1461",
     "location": "Sunny Shores Resort & Marina, 5621 Sooke Rd., Sooke, B.C.",
     "gps": "N48°23.483 W123°39.885",
-    "description": "http://www.sunnyshoresresort.com/",
+    "description": "<a href=\"http://www.sunnyshoresresort.com/\">More info</a>",
     "initDate": "25 September 2016",
     "productionReady": "yes"
   },
@@ -14927,7 +14926,7 @@
     "url": "/lcra1462",
     "location": "Paradise Fun Park, 375 West Island Hwy, Parksville, Vancouver Island, BC",
     "gps": "N49°19.394 W124°19.372\r",
-    "description": "http://paradisefunpark.net/",
+    "description": "<a href=\"http://paradisefunpark.net/\">More info</a>",
     "initDate": "15 October 2016",
     "productionReady": "yes"
   },
@@ -14993,7 +14992,7 @@
     "url": "/lcra1467",
     "location": "4485 Trans-Canada Hwy, Duncan, BC",
     "gps": "N48°43.762 W123°38.349",
-    "description": "http://www.equineemporium.ca/",
+    "description": "<a href=\"http://www.equineemporium.ca/\">More info</a>",
     "initDate": "29 October 2016",
     "productionReady": "yes"
   },
@@ -15031,7 +15030,7 @@
     "url": "/lcra1470",
     "location": "Recreation Road, just off Shawnigan Lake Road, Shawnigan, BC",
     "gps": "N48°38.530 W123°37.566",
-    "description": "Artist: Randy Malone.  http://www.shawniganfocus.ca/Vault/April%202012/ShawniganFocusApril%202012.pdf",
+    "description": "Artist: <a href=\" http://www.shawniganfocus.ca/Vault/April%202012/ShawniganFocusApril%202012.pdf\">Randy Malone. </a>",
     "initDate": "6 November 2016",
     "productionReady": "yes"
   },
@@ -15045,7 +15044,7 @@
     "url": "/lcra1471",
     "location": "McPhillips Street and Court Avenue, at the north entrance to Seven Oaks Hospital",
     "gps": "N49°57.322 W97°08.824",
-    "description": "http://www.winnipegreflections.com/bears_On_Broadway.php",
+    "description": "<a href=\"http://www.winnipegreflections.com/bears_On_Broadway.php\">More info</a>",
     "initDate": "27 November 2016",
     "productionReady": "yes"
   },
