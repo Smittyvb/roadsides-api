@@ -8750,7 +8750,7 @@
   },
   {
     "name": "World Famous Gnome",
-    "credit": "<a href=\"mailto:spipes@dccnet.com\">Stephanie Pipes</a><br>Updated photo (right): <a href=\"mailto:hirning@shaw.ca\">Lorraine Hirning</a>",
+    "credit": "Original: <a href=\"mailto:spipes@dccnet.com\">Stephanie Pipes</a><br>Updated photo: <a href=\"mailto:hirning@shaw.ca\">Lorraine Hirning</a>",
     "city": "Nanoose Bay",
     "province": "British Columbia",
     "type": "Miscellaneous",
@@ -10232,7 +10232,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "\"The Legacy\" - The World's Largest Bucking Saddle Bronc And Rider",
+    "name": "The Legacy - The World's Largest Bucking Saddle Bronc And Rider",
     "credit": "<a href=\"mailto:nchalack@telusplanet.net\">Neil Chalack</a>",
     "city": "Ponoka",
     "province": "Alberta",
@@ -10716,7 +10716,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "\"reaching Out\"",
+    "name": "Reaching Out",
     "credit": "<a href=\"mailto:brankare@telus.net\">Karen Branton</a>",
     "city": "Red Deer",
     "province": "Alberta",
@@ -13949,7 +13949,7 @@
   },
   {
     "name": "Wauby The Moose",
-    "credit": "ERS",
+    "credit": "Ed Solonyka",
     "city": "Waubaushene",
     "province": "Ontario",
     "type": "Animals - Wild",
@@ -14029,7 +14029,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "O'reilly's Bridge Memorial",
+    "name": "O'Reilly's Bridge Memorial",
     "credit": "<a href=\"mailto:bowser@iaw.on.ca\">James Bowser</a>",
     "city": "Welland",
     "province": "Ontario",
@@ -14561,7 +14561,7 @@
     "archive": false,
     "url": "/licence",
     "location": "About 1 mile west of Hinton.",
-    "initDate": "11 June 2016",
+    "initDate": "6/11/2016.",
     "productionReady": "yes"
   },
   {
@@ -14574,7 +14574,7 @@
     "url": "/chicken",
     "location": "691 Ireland Road, Simcoe, Ontario",
     "gps": "N42°49.667 W80°16.652",
-    "initDate": "25 June 2016",
+    "initDate": "6/25/2016.",
     "productionReady": "yes"
   },
   {
@@ -14587,7 +14587,7 @@
     "url": "/mcbridehusky",
     "location": "Corner of Bridge Road and N.E. Frontage Road - at the Husky gas station.",
     "gps": "N53°18.249 W120°09.567",
-    "initDate": "3 July 2016",
+    "initDate": "7/3/2016.",
     "productionReady": "yes"
   },
   {
@@ -14600,7 +14600,7 @@
     "url": "/winchair",
     "location": "1725 Ellice Avenue, Winnipeg, Manitoba. At the Wholesale Club.",
     "gps": "N49°53.692 W97°12.255",
-    "initDate": "3 July 2016",
+    "initDate": "7/3/2016.",
     "productionReady": "yes"
   },
   {
@@ -14613,7 +14613,7 @@
     "url": "/bdino",
     "location": "On Highway 7, beside Merit Manufacturing.",
     "gps": "N43°29.258 W080°24.982",
-    "initDate": "5 July 2016",
+    "initDate": "7/5/2016.",
     "productionReady": "yes"
   },
   {
@@ -14626,12 +14626,12 @@
     "url": "/bcactus",
     "location": "2615 Victoria Street North, beside Belgian Nursery.",
     "gps": "N43 29.784 W080 23.903",
-    "initDate": "5 July 2016",
+    "initDate": "7/5/2016.",
     "productionReady": "yes"
   },
   {
     "name": "Adirondack Chair",
-    "credit": "Justin Atkins at Distinctly Patio  http://www.distinctlypatio.com/\r\n",
+    "credit": "Justin Atkins at <a href=\"http://www.distinctlypatio.com/\">Distinctly Patio </a> ",
     "city": "Kitchener",
     "province": "Ontario",
     "type": "Furniture",
@@ -14639,7 +14639,7 @@
     "url": "/kchair",
     "location": "97 Ardelt Ave., Unit 3, Kitchener, Ontario.",
     "gps": "N43°25.515 W80°28.707",
-    "initDate": "9 July 2016",
+    "initDate": "7/9/2016.",
     "productionReady": "yes"
   },
   {
@@ -14653,7 +14653,7 @@
     "location": "11 Main Street South, Ituna, Saskatchewan",
     "gps": "N51°10.205 W103°29.747",
     "description": "Steel sculpture, 34 feet tall, 2000 pounds. Engineered and fabricated by Dennis Muzyka. Unveiled on June 28, 2014. http://www.ituna.ca/Pdf/The%20Oat%20Stem%20Story.pdf",
-    "initDate": "15 July 2016",
+    "initDate": "7/15/2016.",
     "productionReady": "yes"
   },
   {
@@ -14666,7 +14666,7 @@
     "url": "/wheatmelville",
     "location": "Highway 10, at Welcome sign, west of Melville.",
     "description": "<a href=\"http://www.melville.ca/content/silhouettes-melville\">More info</a> ",
-    "initDate": "17 July 2016",
+    "initDate": "7/17/2016.",
     "productionReady": "yes"
   },
   {
@@ -14678,7 +14678,7 @@
     "archive": false,
     "url": "/bluechair",
     "location": "Station Beach, Kincardine",
-    "initDate": "20 July 2016",
+    "initDate": "7/20/2016.",
     "productionReady": "yes"
   },
   {
@@ -14689,7 +14689,7 @@
     "type": "Vegetables/Flowers",
     "archive": false,
     "url": "/flowers",
-    "initDate": "22 July 2016",
+    "initDate": "7/22/2016.",
     "productionReady": "yes"
   },
   {
@@ -14702,7 +14702,7 @@
     "url": "/vandino",
     "location": "1455 Quebec Street, Vancouver, British Columbia. At the Telus World of Science.",
     "gps": "N49°16.393 W123°06.183",
-    "initDate": "13 August 2016",
+    "initDate": "8/13/2016.",
     "productionReady": "yes"
   },
   {
@@ -14714,7 +14714,7 @@
     "archive": false,
     "url": "/lcra1446",
     "location": "Just east of Caroline, north of Highway 54/22, near Range Road 60.",
-    "initDate": "20 August 2016",
+    "initDate": "8/20/2016.",
     "productionReady": "yes"
   },
   {
@@ -14727,7 +14727,7 @@
     "url": "/lcra1447",
     "location": "100 Kleefer Place, Vancouver, British Columbia.",
     "gps": "N49°16.788 W123°06.488",
-    "initDate": "28 August 2016",
+    "initDate": "8/28/2016.",
     "productionReady": "yes"
   },
   {
@@ -14740,7 +14740,7 @@
     "url": "/lcra1448",
     "location": "110 Main Street North, Exeter, Ontario, outside MacLean's Home Hardware.",
     "gps": "N43°21.555 W81°28.979",
-    "initDate": "28 August 2016",
+    "initDate": "8/28/2016.",
     "productionReady": "yes"
   },
   {
@@ -14753,7 +14753,7 @@
     "url": "/lcra1449",
     "location": "Duffs Corner Plaza - 1172 Wilson Street West, Ancaster, Ontario.",
     "gps": "N43°11.803 W80°01.219",
-    "initDate": "28 August 2016",
+    "initDate": "8/28/2016.",
     "productionReady": "yes"
   },
   {
@@ -14767,7 +14767,7 @@
     "location": "4928 50th Avenue, Vegreville, Alberta. This horse is perched on top of Cole's Western Wear.",
     "gps": "N53°29.666 W112°03.109",
     "description": "<a href=\"http://www.coleswesternwear.com/\">More info</a>",
-    "initDate": "29 August 2016",
+    "initDate": "8/29/2016.",
     "productionReady": "yes"
   },
   {
@@ -14781,7 +14781,7 @@
     "location": "395 Princess St, Kingston, Ontario, at the Grizzly Grill.",
     "gps": "N44°13.985 W76°29.518",
     "description": "<a href=\"http://www.thegrizzlygrill.ca/\">More info</a>",
-    "initDate": "29 August 2016",
+    "initDate": "8/29/2016.",
     "productionReady": "yes"
   },
   {
@@ -14794,7 +14794,7 @@
     "url": "/lcra1452",
     "location": "1437 Arlington Street, Winnipeg.",
     "gps": "N49°55.196 W97°09.359",
-    "initDate": "30 August 2016",
+    "initDate": "8/30/2016.",
     "productionReady": "yes"
   },
   {
@@ -14808,7 +14808,7 @@
     "location": "Mariner's Cove Boardwalk, 8863 Cavendish Road, Cavendish, PEI.",
     "gps": "N46°29.228 W63°23.792",
     "description": "Outside <a href=\"http://www.ripleys.com/cavendishbeach/\">Ripley's Believe It or Not.  </a>",
-    "initDate": "31 August 2016",
+    "initDate": "8/31/2016.",
     "productionReady": "yes"
   },
   {
@@ -14821,7 +14821,7 @@
     "url": "/lcra1454",
     "location": "Range Road 113, Bow Island, Alberta.",
     "gps": "N49°52.337 W111°25.581",
-    "initDate": "10 September 2016",
+    "initDate": "9/10/2016.",
     "productionReady": "yes"
   },
   {
@@ -14834,7 +14834,7 @@
     "url": "/lcra1455",
     "gps": "N55°41.824 W121°37.981",
     "description": "Note: This replaced the <a href=\"clumberjack.html\">original lumberjack</a> that had been installed at this location (and which is now located a few blocks away). ",
-    "initDate": "1 May 2016",
+    "initDate": "5/1/2016.",
     "productionReady": "yes"
   },
   {
@@ -14847,7 +14847,7 @@
     "url": "/lcra1456",
     "location": "Oak Bay Municipal Hall, 2167 Bay Avenue, Oak Bay, British Columbia",
     "gps": "N48°25.589 W123°19.024",
-    "initDate": "18 September 2016",
+    "initDate": "9/18/2016.",
     "productionReady": "yes"
   },
   {
@@ -14860,7 +14860,7 @@
     "url": "/lcra1457",
     "location": "Henderson Recreation Centre, 2291 Cedar Hill X Road, Oak Bay, British Columbia",
     "gps": "N48°27.333 W123°18.647",
-    "initDate": "18 September 2016",
+    "initDate": "9/18/2016.",
     "productionReady": "yes"
   },
   {
@@ -14873,7 +14873,7 @@
     "url": "/lcra1458",
     "location": "On the boardwalk, by the wharf.",
     "gps": "N48°38.895 W123°23.624",
-    "initDate": "18 September 2016",
+    "initDate": "9/18/2016.",
     "productionReady": "yes"
   },
   {
@@ -14886,7 +14886,7 @@
     "url": "/lcra1459",
     "location": "Beacon Park",
     "gps": "N48°38.953 W123°23.630",
-    "initDate": "18 September 2016",
+    "initDate": "9/18/2016.",
     "productionReady": "yes"
   },
   {
@@ -14899,7 +14899,7 @@
     "url": "/lcra1460",
     "location": "2070 Phillips Road, Sooke, B.C., near the tourist information booth.",
     "gps": "N48°23.059 W123°42.377\r",
-    "initDate": "25 September 2016",
+    "initDate": "9/25/2016.",
     "productionReady": "yes"
   },
   {
@@ -14913,7 +14913,7 @@
     "location": "Sunny Shores Resort & Marina, 5621 Sooke Rd., Sooke, B.C.",
     "gps": "N48°23.483 W123°39.885",
     "description": "<a href=\"http://www.sunnyshoresresort.com/\">More info</a>",
-    "initDate": "25 September 2016",
+    "initDate": "9/25/2016.",
     "productionReady": "yes"
   },
   {
@@ -14927,7 +14927,7 @@
     "location": "Paradise Fun Park, 375 West Island Hwy, Parksville, Vancouver Island, BC",
     "gps": "N49°19.394 W124°19.372\r",
     "description": "<a href=\"http://paradisefunpark.net/\">More info</a>",
-    "initDate": "15 October 2016",
+    "initDate": "10/15/2016.",
     "productionReady": "yes"
   },
   {
@@ -14940,7 +14940,7 @@
     "url": "/lcra1463",
     "location": "Carrot Park, Port Hardy, BC",
     "gps": "N50°43.474 W127°29.517",
-    "initDate": "15 October 2016",
+    "initDate": "10/15/2016.",
     "productionReady": "yes"
   },
   {
@@ -14953,7 +14953,7 @@
     "url": "/lcra1464",
     "location": "Monterey Recreation Centre - 4W1, 1442 Monterey Avenue, Oak Bay, BC",
     "gps": "N48°25.540 W123°18.880",
-    "initDate": "22 October 2016",
+    "initDate": "10/22/2016.",
     "productionReady": "yes"
   },
   {
@@ -14966,7 +14966,7 @@
     "url": "/lcra1465",
     "location": "Campbell River Visitor Centre, 1235 Shoppers Row, Campbell River, BC",
     "gps": "N50°01.571 W125°14.632",
-    "initDate": "22 October 2016",
+    "initDate": "10/22/2016.",
     "productionReady": "yes"
   },
   {
@@ -14979,7 +14979,7 @@
     "url": "/lcra1466",
     "location": "CR Granite Works - 1581 15th Avenue, Campbell River, BC",
     "gps": "N50°01.785 W125°15.885",
-    "initDate": "23 October 2016",
+    "initDate": "10/23/2016.",
     "productionReady": "yes"
   },
   {
@@ -14993,7 +14993,7 @@
     "location": "4485 Trans-Canada Hwy, Duncan, BC",
     "gps": "N48°43.762 W123°38.349",
     "description": "<a href=\"http://www.equineemporium.ca/\">More info</a>",
-    "initDate": "29 October 2016",
+    "initDate": "10/29/2016.",
     "productionReady": "yes"
   },
   {
@@ -15006,7 +15006,7 @@
     "url": "/lcra1468",
     "location": "1046 Cedar Street, Campbell River, BC",
     "gps": "N50°01.566 W125°14.825",
-    "initDate": "29 October 2016",
+    "initDate": "10/29/2016.",
     "productionReady": "yes"
   },
   {
@@ -15017,7 +15017,7 @@
     "type": "Furniture",
     "archive": false,
     "url": "/lcra1469",
-    "initDate": "6 November 2016",
+    "initDate": "11/6/2016.",
     "productionReady": "yes"
   },
   {
@@ -15031,7 +15031,7 @@
     "location": "Recreation Road, just off Shawnigan Lake Road, Shawnigan, BC",
     "gps": "N48°38.530 W123°37.566",
     "description": "Artist: <a href=\" http://www.shawniganfocus.ca/Vault/April%202012/ShawniganFocusApril%202012.pdf\">Randy Malone. </a>",
-    "initDate": "6 November 2016",
+    "initDate": "11/6/2016.",
     "productionReady": "yes"
   },
   {
@@ -15045,7 +15045,7 @@
     "location": "McPhillips Street and Court Avenue, at the north entrance to Seven Oaks Hospital",
     "gps": "N49°57.322 W97°08.824",
     "description": "<a href=\"http://www.winnipegreflections.com/bears_On_Broadway.php\">More info</a>",
-    "initDate": "27 November 2016",
+    "initDate": "11/27/2016.",
     "productionReady": "yes"
   },
   {
@@ -15058,7 +15058,7 @@
     "url": "/lcra1472",
     "location": "5020-49th Street, Lacombe, Alberta, at the Lacombe Blacksmith Museum.",
     "gps": "N52°27.826 W113°43.764",
-    "initDate": "27 November 2016",
+    "initDate": "11/27/2016.",
     "productionReady": "yes"
   },
   {
@@ -15071,7 +15071,7 @@
     "url": "/lcra1473",
     "location": "\r\nAulac Big Stop Restaurant - 170 Aulac Rd., Sackville, New Brunswick",
     "gps": "N45°52.188 W64°16.825",
-    "initDate": "17 December 2016",
+    "initDate": "12/17/2016.",
     "productionReady": "yes"
   }
 ]}
