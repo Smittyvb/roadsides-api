@@ -44,18 +44,6 @@
     "productionReady": "yes"
   },
   {
-    "name": "Millennium Cross Shrine",
-    "credit": "<a href=\"mailto:gsayese@yahoo.com\">George Sayese</a>",
-    "city": "Aberdeen",
-    "province": "Saskatchewan",
-    "type": "Miscellaneous",
-    "archive": false,
-    "url": "/aberdeen",
-    "location": "10km N.E. of Aberdeen, SK on HWY #41.\nAcross from the Bayda Plantation.",
-    "internalNote": "delete this roadside",
-    "productionReady": "yes"
-  },
-  {
     "name": "Puffin",
     "credit": "Steve Robinson",
     "city": "Auld's Cove",
@@ -102,7 +90,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "\"airplane\"",
+    "name": "Airplane",
     "credit": "Dana Sixty",
     "city": "Toronto",
     "province": "Ontario",
@@ -145,7 +133,7 @@
     "archive": false,
     "url": "/albert",
     "location": "Central New Brunswick Woodmen's Museum. 6342 Route 8 Highway, Boiestown, New Brunswick",
-    "description": "<a href=\"http://www.woodmensmuseum.com/index.html\">More info</a>       ",
+    "description": "<a href=\"http://www.woodmensmuseum.com/index.html\">More info.</a>       ",
     "productionReady": "yes"
   },
   {
@@ -157,7 +145,7 @@
     "archive": false,
     "url": "/albertosaurus",
     "location": "Located at the store and gas station/post office\njust southeast of the hamlet of Patricia, Alberta, near\nDinosaur Provincial Park.",
-    "description": "<a href=\"http://www.academia.edu/726701/A_history_of_Albertosaurus-related_popular_culture_events_and_activities_in_Canada\">More info</a> ",
+    "description": "<a href=\"http://www.academia.edu/726701/A_history_of_Albertosaurus-related_popular_culture_events_and_activities_in_Canada\">More info.</a> ",
     "productionReady": "yes"
   },
   {
@@ -286,7 +274,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Amisk (beaver)",
+    "name": "Amisk (Beaver)",
     "credit": "<a href=\"http://www.dauphin.ca/\">Dauphin Community Economic Development Department </a>",
     "city": "Dauphin",
     "province": "Manitoba",
@@ -353,7 +341,7 @@
     "archive": false,
     "url": "/angus",
     "location": "Outside the Bonnyville & District Museum",
-    "description": " <a href=\"http://town.bonnyville.ab.ca/index.php/living-in-bonnyville/about-bonnyville/history\">More info</a>",
+    "description": " <a href=\"http://town.bonnyville.ab.ca/index.php/living-in-bonnyville/about-bonnyville/history\">More info.</a>",
     "productionReady": "yes"
   },
   {
@@ -381,7 +369,7 @@
   {
     "name": "Anne Of Green Gables",
     "credit": "<a href=\"mailto:bowser@iaw.on.ca\">James Bowser</a>",
-    "city": "Borden-carleton",
+    "city": "Borden-Carleton",
     "province": "Prince Edward Island",
     "type": "People",
     "archive": false,
@@ -447,9 +435,9 @@
     "productionReady": "yes"
   },
   {
-    "name": "L'espace Maskoutain",
+    "name": "L'Espace Maskoutain",
     "credit": "Isabelle Cordeau of the <a href=\"http://www.tourismesainthyacinthe.qc.ca/?page=home&amp;lang=en\">Bureau de tourisme et des congres de Saint-Hyacinthe inc.</a>, photographer - Francois Lariviere",
-    "city": "Saint-hyacinthe",
+    "city": "Saint-Hyacinthe",
     "province": "Quebec",
     "type": "Miscellaneous",
     "archive": false,
@@ -811,23 +799,13 @@
     "productionReady": "yes"
   },
   {
-    "name": "Horse Clock (the Beast)",
+    "name": "Horse Clock (The Beast)",
     "credit": "<a href=\"http://www.mapleridge.org/\">District of Maple Ridge</a>",
     "city": "Maple Ridge",
     "province": "British Columbia",
     "type": "Clocks/Sundials",
     "archive": false,
     "url": "/beast",
-    "productionReady": "yes"
-  },
-  {
-    "name": "Whale",
-    "credit": "<a href=\"https://www.facebook.com/394361037329661/photos/a.396327790466319.1073741828.394361037329661/569476459818117/?type=1&amp;theater\">Soci�t� d'histoire et de g�n�alogie de Matane</a>",
-    "city": "Matane",
-    "province": "Quebec",
-    "type": "Animals - Wild",
-    "archive": false,
-    "url": "/beaupre",
     "productionReady": "yes"
   },
   {
@@ -1579,7 +1557,7 @@
   {
     "name": "Bridge Girder",
     "credit": "<a href=\"mailto:bowser@iaw.on.ca\">James Bowser</a>",
-    "city": "Borden-carleton",
+    "city": "Borden-Carleton",
     "province": "Prince Edward Island",
     "type": "Miscellaneous",
     "archive": false,
@@ -1979,7 +1957,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Twoonie(2)",
+    "name": "Twoonie (2)",
     "credit": "<a href=\"mailto:rrichman@ascap.com\">Rich\r\nRichman,\r\nStaten Island, N.Y.</a> and <a href=\"mailto:Bill_Patterson@tricolour.queensu.ca\">Bill\r\nPatterson</a> (tails), <a href=\"mailto:debbieanded@sympatico.ca\">Debbie Foster</a> (heads)",
     "city": "Campbellford",
     "province": "Ontario",
@@ -2121,7 +2099,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Canola (rapeseed) Plant",
+    "name": "Canola (Rapeseed) Plant",
     "credit": "<a href=\"mailto:gfoxedm@telusplanet.net\">Gerry Fox</a>",
     "city": "Maidstone",
     "province": "Saskatchewan",
@@ -3018,6 +2996,7 @@
   },
   {
     "name": "Moose",
+    "credit": "LCRA",
     "city": "Cow Bay",
     "province": "Nova Scotia",
     "type": "Animals - Wild",
@@ -4094,7 +4073,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Pysanka (easter Egg)",
+    "name": "Pysanka (Easter Egg)",
     "credit": "Ed Solonyka",
     "city": "Vegreville",
     "province": "Alberta",
@@ -4499,7 +4478,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Josiah Flintabbatey Flonatin (flinty)",
+    "name": "Josiah Flintabbatey Flonatin (Flinty)",
     "credit": "<a href=\"http://www.digistar.mb.ca/minsci/areas/FF.html\">Flin\r\nFlon Mining Area<br>\r\n</a>",
     "city": "Flin Flon",
     "province": "Manitoba",
@@ -4624,7 +4603,7 @@
   {
     "name": "Teepee",
     "credit": "Barry Pomeroy",
-    "city": "Fort Qu'appelle",
+    "city": "Fort Qu'Appelle",
     "province": "Saskatchewan",
     "type": "Native American",
     "archive": false,
@@ -6184,7 +6163,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Immense Mode (shoes And Stockings)",
+    "name": "Immense Mode (Shoes And Stockings)",
     "credit": "<a href=\"mailto:kevanswildwood@gmail.com\">Kevin\r\nEvans</a>",
     "city": "Edmonton",
     "province": "Alberta",
@@ -6680,7 +6659,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "World's Largest Free-standing Cuckoo Clock",
+    "name": "World's Largest Free-Standing Cuckoo Clock",
     "credit": "<A HREF=\"MAILTO:toaster@theboss.net\">Jim Todd</A>",
     "city": "Kimberley",
     "province": "British Columbia",
@@ -7785,7 +7764,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "T-rex",
+    "name": "T-Rex",
     "credit": "<a HREF=\"MAILTO:brian.atkinson@ndm.gov.on.ca\">Brian Atkinson</a>",
     "city": "Mattice",
     "province": "Ontario",
@@ -8184,7 +8163,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Misguided Miss-all",
+    "name": "Misguided Miss-All",
     "credit": "<a href=\"mailto:dalyn2@shaw.ca\">Dale\r\nRedekopp</a>",
     "city": "Yorkton",
     "province": "Saskatchewan",
@@ -9033,7 +9012,7 @@
     "archive": false,
     "url": "/noahsark",
     "location": "15906 Highway 17, Cobden, Ontario",
-    "description": "<a href=\"http://www.logosland.com\">More info</a>   ",
+    "description": "<a href=\"http://www.logosland.com\">More info.</a>   ",
     "productionReady": "yes"
   },
   {
@@ -9162,7 +9141,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "The Odyssey (campbell's Soup Can And Pigeons)",
+    "name": "The Odyssey (Campbell's Soup Can And Pigeons)",
     "credit": "<a href=\"mailto:hirning@shaw.ca\">Lorraine Hirning</a>",
     "city": "Quebec City",
     "province": "Quebec",
@@ -9223,7 +9202,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Ogo-pogo",
+    "name": "Ogopogo",
     "credit": "<a href=\"mailto:gfoxedm@telusplanet.net\">Gerry Fox</a>",
     "city": "Pogo",
     "province": "Manitoba",
@@ -9233,7 +9212,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Ogo-pogo",
+    "name": "Ogopogo",
     "credit": "Large Canadian Roadside Attractions",
     "city": "Kelowna",
     "province": "British Columbia",
@@ -9314,7 +9293,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Indian Head (omett)",
+    "name": "Indian Head (Omett)",
     "credit": " <a href=\"MAILTO:gmarshal@cancom.net\">Ginette Marshall</a>",
     "city": "Dorion",
     "province": "Ontario",
@@ -9366,7 +9345,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Walleye (pickeral)",
+    "name": "Walleye (Pickeral)",
     "credit": "Original: <a href=\"mailto:bnrboo@yahoo.com\">Tina Brenner</a>, Updated Version:&nbsp; Nathalie Vachon \n  of the Opasatika Regional \n  Economic Development Team",
     "city": "Opasatika",
     "province": "Ontario",
@@ -9522,7 +9501,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Nk'mip Man And Horse",
+    "name": "Nk'Mip Man And Horse",
     "credit": "<a href=\"mailto:patriciahrock@hotmail.com\">Patricia Rock</a>",
     "city": "Osoyoos",
     "province": "British Columbia",
@@ -9532,7 +9511,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Nk'mip Man And Horse (2)",
+    "name": "Nk'Mip Man And Horse (2)",
     "credit": "<a href=\"mailto:patriciahrock@hotmail.com\">Patricia Rock</a>",
     "city": "Osoyoos",
     "province": "British Columbia",
@@ -9828,7 +9807,7 @@
   {
     "name": "Pea Plant",
     "credit": "<a href=\"mailto:gfoxedm@telusplanet.net\">Gerry Fox</a>",
-    "city": "Bellevue (formerly St Isidore-de-Bellevue)",
+    "city": "Bellevue (formerly St. Isidore-de-Bellevue)",
     "province": "Saskatchewan",
     "type": "Vegetables/Flowers",
     "archive": false,
@@ -9859,7 +9838,7 @@
   {
     "name": "Potato",
     "credit": "L&L van Bodegom",
-    "city": "O'leary",
+    "city": "O'Leary",
     "province": "Prince Edward Island",
     "type": "Vegetables/Flowers",
     "archive": false,
@@ -10292,7 +10271,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "The Wall (world's Largest Photo-mosaic)",
+    "name": "The Wall (World's Largest Photo-mosaic)",
     "credit": "<a href=\"mailto:pbowker@sympatico.ca\">Perry \r\n  Bowker</a>",
     "city": "Port Carling",
     "province": "Ontario",
@@ -10346,7 +10325,7 @@
   {
     "name": "Praying Indian",
     "credit": "<a href=\"mailto:dalyn2@shaw.ca\">Dale\r\nRedekopp</a>",
-    "city": "Fort Qu'appelle",
+    "city": "Fort Qu'Appelle",
     "province": "Saskatchewan",
     "type": "Native American",
     "archive": false,
@@ -11394,7 +11373,7 @@
     "url": "/scarecrow",
     "location": "Located on the west side of Northumberland County Road 50, south of \r\n   13th Line East.",
     "gps": "N44°23.213 W77°47.493",
-    "internalNote": "2 pic",
+    "internalNote": "2 pics",
     "productionReady": "yes"
   },
   {
@@ -11659,7 +11638,7 @@
     "type": "Native American",
     "archive": false,
     "url": "/sigloo",
-    "location": "7km west, at Adam's Igloo Wildlife Museum -",
+    "location": "7km west, at Adam's Igloo Wildlife Museum",
     "productionReady": "yes"
   },
   {
@@ -13311,7 +13290,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "T-rex",
+    "name": "T-Rex",
     "credit": "ERS",
     "city": "Vaughan",
     "province": "Ontario",
@@ -13646,7 +13625,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "World's Tallest Totem Pole (from A Single Tree)",
+    "name": "World's Tallest Totem Pole (From A Single Tree)",
     "credit": "<a HREF=\"http://www.victoriabcguide.com/\" Target=\"ad\">The Admiral's \r\n  Complete Guide to Victoria</a>",
     "city": "Victoria",
     "province": "British Columbia",
@@ -13818,7 +13797,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Fish (waldo The Great)",
+    "name": "Fish (Waldo The Great)",
     "credit": "<a href=\"mailto:tjohns@vianet.on.ca\">Peter Whittaker</a>",
     "city": "Upsala",
     "province": "Ontario",
@@ -14241,7 +14220,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "Wildlife Mural (canada's Largest)",
+    "name": "Wildlife Mural (Canada's Largest)",
     "credit": "<a HREF=\"MAILTO:gmarshal@cancom.net\">Ginette Marshall</a>",
     "city": "Dorion",
     "province": "Ontario",
@@ -14665,7 +14644,7 @@
     "archive": false,
     "url": "/wheatmelville",
     "location": "Highway 10, at Welcome sign, west of Melville.",
-    "description": "<a href=\"http://www.melville.ca/content/silhouettes-melville\">More info</a> ",
+    "description": "<a href=\"http://www.melville.ca/content/silhouettes-melville\">More info.</a> ",
     "initDate": "7/17/2016.",
     "productionReady": "yes"
   },
@@ -14766,7 +14745,7 @@
     "url": "/lcra1450",
     "location": "4928 50th Avenue, Vegreville, Alberta. This horse is perched on top of Cole's Western Wear.",
     "gps": "N53°29.666 W112°03.109",
-    "description": "<a href=\"http://www.coleswesternwear.com/\">More info</a>",
+    "description": "<a href=\"http://www.coleswesternwear.com/\">More info.</a>",
     "initDate": "8/29/2016.",
     "productionReady": "yes"
   },
@@ -14780,7 +14759,7 @@
     "url": "/lcra1451",
     "location": "395 Princess St, Kingston, Ontario, at the Grizzly Grill.",
     "gps": "N44°13.985 W76°29.518",
-    "description": "<a href=\"http://www.thegrizzlygrill.ca/\">More info</a>",
+    "description": "<a href=\"http://www.thegrizzlygrill.ca/\">More info.</a>",
     "initDate": "8/29/2016.",
     "productionReady": "yes"
   },
@@ -14879,7 +14858,7 @@
   {
     "name": "Pirate",
     "credit": "<a href=\"mailto:hirning@shaw.ca\">Lorraine Hirning</a>",
-    "city": "<a Href=\"mailto:hirning@shaw.ca\">Lorraine Hirning</a>",
+    "city": "Sidney",
     "province": "British Columbia",
     "type": "People",
     "archive": false,
@@ -14912,7 +14891,7 @@
     "url": "/lcra1461",
     "location": "Sunny Shores Resort & Marina, 5621 Sooke Rd., Sooke, B.C.",
     "gps": "N48°23.483 W123°39.885",
-    "description": "<a href=\"http://www.sunnyshoresresort.com/\">More info</a>",
+    "description": "<a href=\"http://www.sunnyshoresresort.com/\">More info.</a>",
     "initDate": "9/25/2016.",
     "productionReady": "yes"
   },
@@ -14926,7 +14905,7 @@
     "url": "/lcra1462",
     "location": "Paradise Fun Park, 375 West Island Hwy, Parksville, Vancouver Island, BC",
     "gps": "N49°19.394 W124°19.372\r",
-    "description": "<a href=\"http://paradisefunpark.net/\">More info</a>",
+    "description": "<a href=\"http://paradisefunpark.net/\">More info.</a>",
     "initDate": "10/15/2016.",
     "productionReady": "yes"
   },
@@ -14992,7 +14971,7 @@
     "url": "/lcra1467",
     "location": "4485 Trans-Canada Hwy, Duncan, BC",
     "gps": "N48°43.762 W123°38.349",
-    "description": "<a href=\"http://www.equineemporium.ca/\">More info</a>",
+    "description": "<a href=\"http://www.equineemporium.ca/\">More info.</a>",
     "initDate": "10/29/2016.",
     "productionReady": "yes"
   },
@@ -15044,7 +15023,7 @@
     "url": "/lcra1471",
     "location": "McPhillips Street and Court Avenue, at the north entrance to Seven Oaks Hospital",
     "gps": "N49°57.322 W97°08.824",
-    "description": "<a href=\"http://www.winnipegreflections.com/bears_On_Broadway.php\">More info</a>",
+    "description": "<a href=\"http://www.winnipegreflections.com/bears_On_Broadway.php\">More info.</a>",
     "initDate": "11/27/2016.",
     "productionReady": "yes"
   },
@@ -15063,7 +15042,7 @@
   },
   {
     "name": "Semipalmated Sandpipers",
-    "credit": "<a href=\"mailto:eire7981@gmail.com\">Sidney Pitt",
+    "credit": "<a href=\"mailto:eire7981@gmail.com\">Sidney Pitt</a>",
     "city": "Sackville",
     "province": "New Brunswick",
     "type": "Animals - Wild Birds",
