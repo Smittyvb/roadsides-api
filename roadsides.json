@@ -9,7 +9,7 @@
     "type": "People",
     "archive": false,
     "url": "/3valleygap",
-    "location": "Three Valley Gap Heritage Ghost Town",
+    "location": "Three Valley Gap Heritage Ghost Town.",
     "productionReady": "yes"
   },
   {
@@ -62,7 +62,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/agassizice",
-    "location": "Assiniboine Park, north of walking bridge",
+    "location": "Assiniboine Park, north of walking bridge.",
     "description": "<a href=\"http://winnipegarts.ca/wac/artwork/agassiz-ice\"> Sculpturer: Gordon Reeve.  </a>    ",
     "productionReady": "yes"
   },
@@ -74,7 +74,7 @@
     "type": "People",
     "archive": false,
     "url": "/airdrie",
-    "location": "Western RV Country - Airdrie\r\n61 E. Lake Ramp NE\r\nAirdrie AB ",
+    "location": "Western RV Country, 61 E. Lake Ramp NE, Airdrie.",
     "productionReady": "yes"
   },
   {
@@ -85,7 +85,7 @@
     "type": "Native American",
     "archive": false,
     "url": "/airdrietps",
-    "location": "Gwacheon Park",
+    "location": "Gwacheon Park.",
     "description": "In 2007, <a href=\"http://www.airdrie.ca/index.cfm?serviceID=640\">six handcrafted totem poles were donated to the City of Airdrie by Gwacheon, Korea</a> to commemorate the 10th year of sharing a sister city relationship. Airdrie residents are welcome to view the totem poles in Gwacheon Park in Airdrie year round.",
     "productionReady": "yes"
   },
@@ -108,7 +108,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/airplanetail",
-    "location": "North Atlantic Aviation Museum",
+    "location": "North Atlantic Aviation Museum.",
     "description": "In the front of the museum, the tail of a 1930s-era Douglas DC-3 is used as an awning. The cockpit of the same plane is located on the back of the building and can be accessed from inside.",
     "internalNote": "48.952423°N 54.622791°W",
     "productionReady": "yes"
@@ -132,7 +132,7 @@
     "type": "People",
     "archive": false,
     "url": "/albert",
-    "location": "Central New Brunswick Woodmen's Museum. 6342 Route 8 Highway, Boiestown, New Brunswick",
+    "location": "Central New Brunswick Woodmen's Museum. 6342 Route 8 Highway, Boiestown, New Brunswick.",
     "description": "<a href=\"http://www.woodmensmuseum.com/index.html\">More info.</a>       ",
     "productionReady": "yes"
   },
@@ -180,7 +180,7 @@
     "type": "Reptiles",
     "archive": false,
     "url": "/alixgator",
-    "location": "Corner of 50th Ave & Main St",
+    "location": "Corner of 50th Ave & Main St.",
     "productionReady": "yes"
   },
   {
@@ -189,7 +189,7 @@
     "city": "Alma",
     "province": "New Brunswick",
     "type": "Animals - Wild",
-    "archive": false,
+    "archive": true,
     "url": "/alma",
     "productionReady": "yes"
   },
@@ -201,7 +201,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/almamoose",
-    "location": "Moose'n Around gift shop - Fundy National Park",
+    "location": "Moose'n Around gift shop - Fundy National Park.",
     "productionReady": "yes"
   },
   {
@@ -212,7 +212,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/altona",
-    "location": "10th Ave. NE, Altona",
+    "location": "10th Ave. NE, Altona.",
     "description": "Van Gogh's \"Sunflowers.\" Artist: Cameron Cross. <a href=\"https://altona.ca/tourism/recreation-leisure/van-goghs-sunflowers/\">This roadside attraction stands 76’6” high and is on a 3-legged steel easel. </a>",
     "productionReady": "yes"
   },
@@ -234,7 +234,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/altonaoc",
-    "location": "Next to Wall Electric Motor, 2nd Ave & 6th St., south end of town",
+    "location": "Next to Wall Electric Motor, 2nd Ave & 6th St., south end of town..",
     "productionReady": "yes"
   },
   {
@@ -340,7 +340,7 @@
     "type": "People",
     "archive": false,
     "url": "/angus",
-    "location": "Outside the Bonnyville & District Museum",
+    "location": "Outside the Bonnyville & District Museum.",
     "description": " <a href=\"http://town.bonnyville.ab.ca/index.php/living-in-bonnyville/about-bonnyville/history\">More info.</a>",
     "productionReady": "yes"
   },
@@ -715,7 +715,7 @@
     "type": "People",
     "archive": false,
     "url": "/barrhead",
-    "location": "East on Hwy. 18",
+    "location": "East on Hwy. 18.",
     "productionReady": "yes"
   },
   {
@@ -1013,7 +1013,7 @@
     "type": "Furniture",
     "archive": false,
     "url": "/bethany",
-    "location": "~5km W on Hwy 7a",
+    "location": "~5 km W on Hwy 7a.",
     "productionReady": "yes"
   },
   {
@@ -1105,7 +1105,7 @@
     "type": "Animals - Farm/Domestic",
     "archive": false,
     "url": "/biggarbull",
-    "location": "5 km east on Hwy 14",
+    "location": "5 km east on Hwy 14.",
     "productionReady": "yes"
   },
   {
@@ -1116,7 +1116,7 @@
     "type": "Plants",
     "archive": false,
     "url": "/biggarcactus",
-    "location": "12.5 km N on Hwy 4",
+    "location": "12.5 km N on Hwy 4.",
     "productionReady": "yes"
   },
   {
@@ -1287,7 +1287,7 @@
     "type": "Fruit",
     "archive": false,
     "url": "/blueberry",
-    "location": "Main Street (Highway 321), north of the Trans-Canada Highway",
+    "location": "Main Street (Highway 321), north of the Trans-Canada Highway.",
     "gps": "N45°43.513 W63°52.796",
     "productionReady": "yes"
   },
@@ -1319,7 +1319,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/bnpbears",
-    "location": "Bear Creek Mountain Resort, ~ 12 km S of Lake Louise on Bow Valley Parkway",
+    "location": "Bear Creek Mountain Resort, ~ 12 km S of Lake Louise on Bow Valley Parkway.",
     "productionReady": "yes"
   },
   {
@@ -1330,7 +1330,7 @@
     "type": "People",
     "archive": false,
     "url": "/bob",
-    "location": "~ 36km SE just N of Hwy 716",
+    "location": "~ 36 km SE just N of Hwy 716.",
     "productionReady": "yes"
   },
   {
@@ -1672,7 +1672,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/bspider",
-    "location": "~ 5 km E on Hwy.14",
+    "location": "~ 5 km E on Hwy. 14.",
     "productionReady": "yes"
   },
   {
@@ -2085,7 +2085,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/cannon",
-    "location": "~ 8 km E on Talbot Line (Hwy. 3)",
+    "location": "~ 8 km E on Talbot Line (Hwy. 3).",
     "productionReady": "yes"
   },
   {
@@ -2126,7 +2126,7 @@
     "type": "Furniture",
     "archive": true,
     "url": "/capeforchu",
-    "location": "11km south of Yarmouth",
+    "location": "11  km south of Yarmouth.",
     "productionReady": "yes"
   },
   {
@@ -2147,7 +2147,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/cariboucrossing",
-    "location": "Caribou Crossing Trading Post",
+    "location": "Caribou Crossing Trading Post.",
     "productionReady": "yes"
   },
   {
@@ -2178,7 +2178,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/castle",
-    "location": "~ 5.5 km east of Clyde on Hwy 18",
+    "location": "~ 5.5 km east of Clyde on Hwy 18.",
     "productionReady": "yes"
   },
   {
@@ -2385,7 +2385,7 @@
     "type": "Furniture",
     "archive": false,
     "url": "/chairs",
-    "location": "NW on Hwy 20",
+    "location": "NW on Hwy 20.",
     "productionReady": "yes"
   },
   {
@@ -2456,7 +2456,7 @@
     "type": "People",
     "archive": false,
     "url": "/charlelake",
-    "location": "~10 km north",
+    "location": "~10 km north.",
     "productionReady": "yes"
   },
   {
@@ -2467,7 +2467,7 @@
     "type": "Animals - Farm/Domestic",
     "archive": false,
     "url": "/charolaisbull",
-    "location": "~ 8km West on Hwy. 1",
+    "location": "~ 8 km West on Hwy. 1.",
     "productionReady": "yes"
   },
   {
@@ -2728,7 +2728,7 @@
     "type": "Crustaceans",
     "archive": false,
     "url": "/clobster",
-    "location": "~3 km west on Hwy 6",
+    "location": "~3 km west on Hwy 6.",
     "productionReady": "yes"
   },
   {
@@ -2891,7 +2891,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/combine",
-    "location": "NW at Hwy 16 and Krary Road",
+    "location": "NW at Hwy 16 and Krary Road.",
     "productionReady": "yes"
   },
   {
@@ -3266,7 +3266,7 @@
     "productionReady": "yes"
   },
   {
-    "name": "1950 Gm Truck In The Sky",
+    "name": "1950 GM Truck In The Sky",
     "credit": "<a href=\"mailto:rdonnan49@sasktel.net\">Richard Donnan</a>",
     "city": "Cudworth",
     "province": "Saskatchewan",
@@ -3503,7 +3503,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/deacon",
-    "location": "~6.5 km North on Deacon Road",
+    "location": "~6.5 km North on Deacon Road.",
     "productionReady": "yes"
   },
   {
@@ -3594,7 +3594,7 @@
     "type": "People",
     "archive": false,
     "url": "/dewberry1",
-    "location": "west, on Hwy. 45 near Hwy. 893",
+    "location": "West, on Hwy. 45 near Hwy. 893.",
     "productionReady": "yes"
   },
   {
@@ -3605,7 +3605,7 @@
     "type": "People",
     "archive": false,
     "url": "/dewberry2",
-    "location": "west, on Hwy. 45 near Hwy. 893",
+    "location": "West, on Hwy. 45 near Hwy. 893.",
     "productionReady": "yes"
   },
   {
@@ -3656,7 +3656,7 @@
     "type": "People",
     "archive": false,
     "url": "/dinsmore",
-    "location": "~11.5 km east on Hwy. 44",
+    "location": "~11.5 km east on Hwy. 44.",
     "productionReady": "yes"
   },
   {
@@ -3937,7 +3937,7 @@
     "type": "Birds",
     "archive": false,
     "url": "/eagleo",
-    "location": "18.5 km east on Hwy 3",
+    "location": "18.5 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -4557,7 +4557,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/forestburgss",
-    "location": "8 km west, 8km south on Hwy. 855.",
+    "location": "8 km west, 8 km south on Hwy. 855.",
     "productionReady": "yes"
   },
   {
@@ -4628,7 +4628,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/frcanoe",
-    "location": "East of Alban",
+    "location": "East of Alban.",
     "productionReady": "yes"
   },
   {
@@ -4739,7 +4739,7 @@
     "type": "Insects",
     "archive": false,
     "url": "/galahad",
-    "location": "~ 5km south on H861",
+    "location": "~ 5 km south on H861.",
     "productionReady": "yes"
   },
   {
@@ -4942,7 +4942,7 @@
     "type": "Native American",
     "archive": false,
     "url": "/ginukshuk",
-    "location": "~ 4km east on Hwy 1",
+    "location": "~ 4 km east on Hwy 1.",
     "productionReady": "yes"
   },
   {
@@ -5163,7 +5163,7 @@
     "type": "Animals - Farm/Domestic",
     "archive": false,
     "url": "/gpbull",
-    "location": "5 km west on Hwy 5",
+    "location": "5 km west on Hwy 5.",
     "productionReady": "yes"
   },
   {
@@ -5292,9 +5292,10 @@
     "city": "Great Village",
     "province": "Nova Scotia",
     "type": "Fruit",
-    "archive": false,
+    "archive": true,
     "url": "/greatvillage",
-    "location": "~ 5km east on Hwy 4",
+    "location": "~ 5 km east on Hwy 4.",
+    "gps": "45.40381, -63.55131",
     "productionReady": "yes"
   },
   {
@@ -5305,7 +5306,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/graysville",
-    "location": "4 km west on Hwy. 245",
+    "location": "4 km west on Hwy. 245.",
     "productionReady": "yes"
   },
   {
@@ -5387,7 +5388,7 @@
     "type": "Native American",
     "archive": false,
     "url": "/grindrod",
-    "location": "~4 km SW on Hwy 97A",
+    "location": "~4 km SW on Hwy 97A.",
     "productionReady": "yes"
   },
   {
@@ -5418,7 +5419,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/groundedtrucks",
-    "location": "SE on Hwy. 12",
+    "location": "SE on Hwy. 12.",
     "productionReady": "yes"
   },
   {
@@ -5499,7 +5500,7 @@
     "type": "Birds",
     "archive": false,
     "url": "/hagoose",
-    "location": "Airport",
+    "location": "Airport.",
     "productionReady": "yes"
   },
   {
@@ -5540,7 +5541,7 @@
     "type": "People",
     "archive": false,
     "url": "/hairyhill",
-    "location": "~ 3km SE on Hwy 29/45",
+    "location": "~ 3 km SE on Hwy 29/45.",
     "productionReady": "yes"
   },
   {
@@ -5572,7 +5573,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/hangingboots",
-    "location": "32 km south",
+    "location": "32 km south.",
     "internalNote": "location note seems wrong?",
     "productionReady": "yes"
   },
@@ -5664,7 +5665,7 @@
     "type": "People",
     "archive": false,
     "url": "/hayslake",
-    "location": "8 km west on Hwy. 21",
+    "location": "8 km west on Hwy. 21.",
     "productionReady": "yes"
   },
   {
@@ -5735,7 +5736,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/hearse",
-    "location": "~ 1km S on Church Street",
+    "location": "~ 1 km S on Church Street.",
     "productionReady": "yes"
   },
   {
@@ -5846,7 +5847,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/highfive",
-    "location": "Sculptor:  Jennifer Stillwell",
+    "description": "Sculptor:  Jennifer Stillwell",
     "productionReady": "yes"
   },
   {
@@ -6047,7 +6048,7 @@
     "type": "Animals - Farm/Domestic",
     "archive": false,
     "url": "/huskydog",
-    "location": "~ 6km west on Tran-Canada-Hwy",
+    "location": "~ 6 km west on Tran-Canada-Hwy.",
     "productionReady": "yes"
   },
   {
@@ -6058,7 +6059,7 @@
     "type": "Birds",
     "archive": false,
     "url": "/hwgoose",
-    "location": "West Entrance",
+    "location": "West Entrance.",
     "productionReady": "yes"
   },
   {
@@ -6089,7 +6090,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/hydrant",
-    "location": "~ 5.5 km SW on Talbot Line (Hwy. 3)",
+    "location": "~ 5.5 km SW on Talbot Line (Hwy. 3).",
     "productionReady": "yes"
   },
   {
@@ -6321,7 +6322,7 @@
     "type": "People",
     "archive": false,
     "url": "/iroquoisfalls",
-    "location": "1 km south of Hwy 17 and 67",
+    "location": "1 km south of Hwy 17 and 67.",
     "productionReady": "yes"
   },
   {
@@ -6392,7 +6393,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/jasper2",
-    "location": "At the Skytram",
+    "location": "At the Skytram.",
     "productionReady": "yes"
   },
   {
@@ -6443,7 +6444,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/jigger",
-    "location": "~ 10km S on Hwy 97",
+    "location": "~ 10 km S on Hwy 97.",
     "productionReady": "yes"
   },
   {
@@ -6973,7 +6974,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/lakefield",
-    "location": "(N.E. at Hwy.6 and 28)\r",
+    "location": "(N.E. at Hwy. 6 and 28).\n",
     "productionReady": "yes"
   },
   {
@@ -7268,7 +7269,7 @@
     "type": "Crustaceans",
     "archive": false,
     "url": "/lobsterintrap",
-    "location": "In front of Pettipas Market \r\n(RR #2 Havre Boucher, Antigonish Co)",
+    "location": "In front of Pettipas Market \n(RR #2 Havre Boucher, Antigonish Co).",
     "description": "The trap was constructed as a pilot project for Auld's Cove Lobster Boil and Barbeque to seat customers on suitable days and later it became a permanent home for Great Blue.",
     "productionReady": "yes"
   },
@@ -7320,7 +7321,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/loggingtruck",
-    "location": "~2.5 km NW at Hwys 13 & 822",
+    "location": "~2.5 km NW at Hwys 13 & 822.",
     "productionReady": "yes"
   },
   {
@@ -7345,18 +7346,18 @@
   },
   {
     "name": "Cowboy",
-    "credit": "<a href=\"mailto:dalyn2@shaw.ca\">Dale\r\nRedekopp</a>",
+    "credit": "<a href=\"mailto:dalyn2@shaw.ca\">Dale Redekopp</a>",
     "city": "Longview",
     "province": "Alberta",
     "type": "People",
     "archive": false,
     "url": "/longview",
-    "location": "~ 13 km S on Hwy 22 at junction of Hwy 540",
+    "location": "~ 13 km south on Hwy 22 at junction of Hwy 540.",
     "productionReady": "yes"
   },
   {
     "name": "Loonie",
-    "credit": "<a HREF=\"http://www.fobba.com/surfside/\" Target=\"sbb\">Surfside Bed and \n    Breakfast</a>",
+    "credit": "<a href=\"http://www.fobba.com/surfside/\">Surfside Bed and Breakfast</a>",
     "city": "Echo Bay",
     "province": "Ontario",
     "type": "Coins",
@@ -7372,7 +7373,7 @@
     "type": "Animals - Farm/Domestic",
     "archive": false,
     "url": "/love",
-    "location": "6 km west on Hwy. 55",
+    "location": "6 km west on Hwy. 55.",
     "productionReady": "yes"
   },
   {
@@ -7503,7 +7504,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/manitouwadge",
-    "location": "Hwy's 17 & 614",
+    "location": "Hwy's 17 & 614.",
     "productionReady": "yes"
   },
   {
@@ -7612,7 +7613,7 @@
     "name": "Border Markers",
     "credit": "<a href=\"mailto:dalyn2@shaw.ca\">Dale\r\nRedekopp</a>",
     "city": "Lloydminster",
-    "province": "Alberta/saskatchewan",
+    "province": "Alberta/Saskatchewan",
     "type": "Miscellaneous",
     "archive": false,
     "url": "/markers",
@@ -7750,7 +7751,7 @@
     "type": "Fish",
     "archive": false,
     "url": "/matane",
-    "location": "~ 2.5 km W on 132",
+    "location": "~ 2.5 km west on 132.",
     "productionReady": "yes"
   },
   {
@@ -7994,7 +7995,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/metalship",
-    "location": "~ 10 km nw at Quebec/New Brunswick border",
+    "location": "~ 10 km nw at Quebec/New Brunswick border.",
     "description": "Sculptor - Alanna Baird",
     "productionReady": "yes"
   },
@@ -8006,7 +8007,7 @@
     "type": "People",
     "archive": false,
     "url": "/metalwarrior",
-    "location": "~ 5km south on H861",
+    "location": "~ 5 km south on H861.",
     "productionReady": "yes"
   },
   {
@@ -8291,7 +8292,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/modelplanes",
-    "location": "East on Middle Road",
+    "location": "East on Middle Road.",
     "productionReady": "yes"
   },
   {
@@ -8423,7 +8424,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/mooseo",
-    "location": "18 km east on Hwy 3",
+    "location": "18 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -8434,7 +8435,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/morinvilleaw",
-    "location": "~ 7km S on Hwy 2",
+    "location": "~ 7km south on Hwy 2.",
     "productionReady": "yes"
   },
   {
@@ -8670,7 +8671,7 @@
     "type": "Furniture",
     "archive": false,
     "url": "/muskokachair",
-    "location": "Home Hardware",
+    "location": "Home Hardware.",
     "productionReady": "yes"
   },
   {
@@ -8701,7 +8702,7 @@
     "type": "Vegetables/Flowers",
     "archive": false,
     "url": "/nakusp",
-    "location": "~ 19km S on Hwy. 6",
+    "location": "~ 19 km S on Hwy. 6.",
     "productionReady": "yes"
   },
   {
@@ -8748,7 +8749,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/nardam",
-    "location": "Just past western boundary of Rycroft",
+    "location": "Just past western boundary of Rycroft.",
     "productionReady": "yes"
   },
   {
@@ -8829,7 +8830,7 @@
     "type": "Native American",
     "archive": false,
     "url": "/newmarket",
-    "location": "6 km west on hwy. 9",
+    "location": "6 km west on hwy. 9.",
     "productionReady": "yes"
   },
   {
@@ -8990,7 +8991,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/nltruck",
-    "location": "In the former Township of Dymond",
+    "location": "In the former Township of Dymond.",
     "productionReady": "yes"
   },
   {
@@ -9011,7 +9012,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/noahsark",
-    "location": "15906 Highway 17, Cobden, Ontario",
+    "location": "15906 Highway 17, Cobden, Ontario.",
     "description": "<a href=\"http://www.logosland.com\">More info.</a>   ",
     "productionReady": "yes"
   },
@@ -9045,7 +9046,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/nordegg",
-    "location": "41 km W at David Thompson Resort",
+    "location": "41 km west at David Thompson Resort.",
     "productionReady": "yes"
   },
   {
@@ -9106,7 +9107,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/ocaribou",
-    "location": "21 km east on Hwy 3",
+    "location": "21 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -9137,7 +9138,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/ocougar",
-    "location": "18 km east on Hwy 3",
+    "location": "18 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -9178,7 +9179,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/oelk",
-    "location": "21 km east on Hwy 3",
+    "location": "21 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -9249,7 +9250,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/ojdeer",
-    "location": "16 km east on Hwy 3",
+    "location": "16 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -9320,7 +9321,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/opalcannon",
-    "location": "~ 2 km S on RR 224",
+    "location": "~ 2 km south on RR 224.",
     "productionReady": "yes"
   },
   {
@@ -9331,7 +9332,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/opaltrain",
-    "location": "~ 2 km S on RR 224",
+    "location": "~ 2 km south  on RR 224.",
     "productionReady": "yes"
   },
   {
@@ -9362,7 +9363,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/openbook",
-    "location": "Southeast corner of Mississauga Celebration Square, Burnhamthorpe Road West, Mississauga",
+    "location": "Southeast corner of Mississauga Celebration Square, Burnhamthorpe Road West, Mississauga.",
     "gps": "43.587713, -79.642801",
     "description": "Artist: Ilan Sandler. Originally located off Highway 401 near Pearson Airport.",
     "productionReady": "yes"
@@ -9405,7 +9406,7 @@
     "type": "Birds",
     "archive": false,
     "url": "/oraven",
-    "location": "23 km east on Hwy 3",
+    "location": "23 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -9456,7 +9457,7 @@
     "type": "Animals - Mythical/Extinct",
     "archive": false,
     "url": "/osasquatch",
-    "location": "~ 17 km east on Hwy 3",
+    "location": "~ 17 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -9467,7 +9468,7 @@
     "type": "Birds",
     "archive": false,
     "url": "/oseagle",
-    "location": "20 km east on Hwy 3",
+    "location": "20 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -9538,7 +9539,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/ostag",
-    "location": "17 km east on Hwy 3",
+    "location": "17 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -9559,7 +9560,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/owensound",
-    "location": "SW of town - on Concession Road 5 just south of Side Road 6",
+    "location": "Southwest of town - on Concession Road 5 just south of Side Road 6.",
     "productionReady": "yes"
   },
   {
@@ -9700,7 +9701,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/parson",
-    "location": "~10 km NW on Hwy. 95",
+    "location": "~10 km northwest on Hwy. 95.",
     "productionReady": "yes"
   },
   {
@@ -9832,7 +9833,7 @@
     "type": "People",
     "archive": false,
     "url": "/peddler",
-    "location": "~ 2 km SW on Diamond Square Road",
+    "location": "~ 2 km southwest on Diamond Square Road.",
     "productionReady": "yes"
   },
   {
@@ -9876,7 +9877,7 @@
     "type": "People",
     "archive": false,
     "url": "/penobsquis",
-    "location": "~ 6km SW on Hwy. 114",
+    "location": "~ 6 km southwest on Hwy. 114.",
     "productionReady": "yes"
   },
   {
@@ -10298,7 +10299,7 @@
     "type": "Vegetables/Flowers",
     "archive": false,
     "url": "/potato",
-    "location": "701 Highway 105, Maugerville, New Brunswick",
+    "location": "701 Highway 105, Maugerville, New Brunswick.",
     "gps": "N45°53.271 W66°31.489",
     "productionReady": "yes"
   },
@@ -10410,7 +10411,7 @@
     "type": "Native American",
     "archive": false,
     "url": "/psinukshuk",
-    "location": "On Hwy. 400 just north of Port Severn.",
+    "location": "On Hwy. 400, just north of Port Severn.",
     "productionReady": "yes"
   },
   {
@@ -10863,7 +10864,7 @@
     "type": "People",
     "archive": false,
     "url": "/richvalley",
-    "location": "~ 2 km NW on Twp Rd 564",
+    "location": "~ 2 km northwest on Twp Rd 564.",
     "productionReady": "yes"
   },
   {
@@ -11024,7 +11025,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/rolphton",
-    "location": "~ 8 km east on Hwy. 17",
+    "location": "~ 8 km east on Hwy. 17.",
     "description": "Formerly located at Point Alexander, Ontario",
     "productionReady": "yes"
   },
@@ -11118,7 +11119,7 @@
     "type": "Work/Industrial",
     "archive": false,
     "url": "/royalties",
-    "location": "~ 2km N on Hwy 22",
+    "location": "~ 2 km north on Hwy 22.",
     "productionReady": "yes"
   },
   {
@@ -11414,7 +11415,7 @@
     "type": "Animals - Farm/Domestic",
     "archive": false,
     "url": "/scow",
-    "location": "~7km NW on Hwy's 11/17, 1km NW of Finmark Road",
+    "location": "~7 km northwest on Hwy's 11/17, 1 km nothwest of Finmark Road.",
     "productionReady": "yes"
   },
   {
@@ -11495,7 +11496,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/sgrizzly",
-    "location": "5 km south",
+    "location": "5 km south.",
     "productionReady": "yes"
   },
   {
@@ -11638,7 +11639,7 @@
     "type": "Native American",
     "archive": false,
     "url": "/sigloo",
-    "location": "7km west, at Adam's Igloo Wildlife Museum",
+    "location": "7 km west, at Adam's Igloo Wildlife Museum.",
     "productionReady": "yes"
   },
   {
@@ -11701,7 +11702,7 @@
     "type": "People",
     "archive": false,
     "url": "/sjmermaid",
-    "description": "\"Jazz Maid\" Mermaid - one of 15 \"Mermaids in the City\"",
+    "description": "\"Jazz Maid\" Mermaid - one of 15 \"Mermaids in the City.\"",
     "productionReady": "yes"
   },
   {
@@ -11722,7 +11723,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/skidootree",
-    "location": "NW corner of Trans-Canada Highway and Taylor Road 4",
+    "location": "Northwest corner of Trans-Canada Highway and Taylor Road 4.",
     "productionReady": "yes"
   },
   {
@@ -11753,7 +11754,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/slcombines",
-    "location": "2 miles north on Hwy 855",
+    "location": "2 miles north on Hwy 855.",
     "productionReady": "yes"
   },
   {
@@ -11794,7 +11795,7 @@
     "type": "Animals - Mythical/Extinct",
     "archive": false,
     "url": "/slocan",
-    "location": "~ 8km S on Hwy. 6",
+    "location": "~ 8 km south on Hwy. 6.",
     "productionReady": "yes"
   },
   {
@@ -12009,7 +12010,7 @@
     "type": "Insects",
     "archive": false,
     "url": "/spidercar",
-    "location": "south side of 401, just east of Hwy. 28",
+    "location": "South side of 401, just east of Hwy. 28.",
     "productionReady": "yes"
   },
   {
@@ -12182,7 +12183,7 @@
     "type": "Animals - Farm/Domestic",
     "archive": false,
     "url": "/srcamel",
-    "location": "SE at Purple Hill on Shirley Road",
+    "location": "Southeast at Purple Hill on Shirley Road.",
     "productionReady": "yes"
   },
   {
@@ -12424,7 +12425,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/stjoe",
-    "location": "On Hwy. 17",
+    "location": "On Hwy. 17.",
     "productionReady": "yes"
   },
   {
@@ -12465,7 +12466,7 @@
     "type": "Miscellaneous",
     "archive": false,
     "url": "/straffordville",
-    "location": "~ 2 km S on Plank Rd",
+    "location": "~ 2 km south on Plank Rd.",
     "productionReady": "yes"
   },
   {
@@ -12666,7 +12667,7 @@
     "type": "Animals - Farm/Domestic",
     "archive": false,
     "url": "/sussexhorse",
-    "location": "~ 6 km SW on Hwy 114",
+    "location": "~ 6 km southwest on Hwy 114.",
     "productionReady": "yes"
   },
   {
@@ -12749,7 +12750,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/swolf",
-    "location": "5km south",
+    "location": "5 km south.",
     "productionReady": "yes"
   },
   {
@@ -12811,7 +12812,7 @@
     "type": "Fruit",
     "archive": false,
     "url": "/tapple",
-    "location": "~ 5.5 km SW on Talbot Line (Hwy. 3)",
+    "location": "~ 5.5 km southwest on Talbot Line (Hwy. 3).",
     "productionReady": "yes"
   },
   {
@@ -13175,7 +13176,7 @@
     "type": "Animals - Wild",
     "archive": true,
     "url": "/tomoose",
-    "location": "Now located indoors at the base of the CN Tower",
+    "location": "Now located indoors at the base of the CN Tower.",
     "productionReady": "yes"
   },
   {
@@ -13216,7 +13217,7 @@
     "type": "Native American",
     "archive": true,
     "url": "/totempoles",
-    "description": "Sculptor - Wilmer Nadjiwon",
+    "description": "Sculptor - Wilmer Nadjiwon.",
     "productionReady": "yes"
   },
   {
@@ -13307,7 +13308,7 @@
     "type": "Animals - Mythical/Extinct",
     "archive": false,
     "url": "/triceratops",
-    "location": "20 km NW on Hwy. 838",
+    "location": "20 km northwest on Hwy. 838.",
     "productionReady": "yes"
   },
   {
@@ -13389,7 +13390,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/tugaskea",
-    "location": "~1 km southeast on Hwy. 367",
+    "location": "~1 km southeast on Hwy. 367.",
     "productionReady": "yes"
   },
   {
@@ -13400,7 +13401,7 @@
     "type": "Fish",
     "archive": false,
     "url": "/tugaskeb",
-    "location": "~1 km southeast on Hwy. 367",
+    "location": "~1 km southeast on Hwy. 367.",
     "productionReady": "yes"
   },
   {
@@ -13611,7 +13612,7 @@
     "type": "Animals - Farm/Domestic",
     "archive": false,
     "url": "/vermillion",
-    "location": "~ 10 km E on Hwy 16",
+    "location": "~ 10 km east on Hwy 16.",
     "productionReady": "yes"
   },
   {
@@ -13752,7 +13753,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/waasis",
-    "location": "NE at SE corner Trans-Canada Highway and Nevers Rd.",
+    "location": "Northeast at southeast corner Trans-Canada Highway and Nevers Rd.",
     "productionReady": "yes"
   },
   {
@@ -13994,7 +13995,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/wdeer",
-    "location": "680 Josephine St, Wingham, Ontario, outside <a href=\" http://www.thehuntershaven.com/store/\">The Hunter’s Haven Rod and Gun Shop</a>",
+    "location": "680 Josephine St, Wingham, Ontario, outside <a href=\" http://www.thehuntershaven.com/store/\">The Hunter’s Haven Rod and Gun Shop</a>.",
     "productionReady": "yes"
   },
   {
@@ -14175,7 +14176,7 @@
     "type": "People",
     "archive": false,
     "url": "/whitecourt",
-    "location": "~ 11.2 km SW on Range Road 125",
+    "location": "~ 11.2 km SW on Range Road 125.",
     "productionReady": "yes"
   },
   {
@@ -14186,7 +14187,7 @@
     "type": "Animals - Wild",
     "archive": false,
     "url": "/whitebuffalo",
-    "location": "East of town near the North Saskatchewan River",
+    "location": "East of town near the North Saskatchewan River.",
     "productionReady": "yes"
   },
   {
@@ -14398,7 +14399,7 @@
     "type": "Transportation",
     "archive": false,
     "url": "/wrench",
-    "location": "6 km E on Hwy 3",
+    "location": "6 km east on Hwy 3.",
     "productionReady": "yes"
   },
   {
@@ -14540,7 +14541,7 @@
     "archive": false,
     "url": "/licence",
     "location": "About 1 mile west of Hinton.",
-    "initDate": "6/11/2016.",
+    "initDate": "11 June 2016",
     "productionReady": "yes"
   },
   {
@@ -14551,9 +14552,9 @@
     "type": "Birds",
     "archive": false,
     "url": "/chicken",
-    "location": "691 Ireland Road, Simcoe, Ontario",
+    "location": "691 Ireland Road, Simcoe, Ontario.",
     "gps": "N42°49.667 W80°16.652",
-    "initDate": "6/25/2016.",
+    "initDate": "25 June 2016",
     "productionReady": "yes"
   },
   {
@@ -14566,7 +14567,7 @@
     "url": "/mcbridehusky",
     "location": "Corner of Bridge Road and N.E. Frontage Road - at the Husky gas station.",
     "gps": "N53°18.249 W120°09.567",
-    "initDate": "7/3/2016.",
+    "initDate": "3 July 2016",
     "productionReady": "yes"
   },
   {
@@ -14579,7 +14580,7 @@
     "url": "/winchair",
     "location": "1725 Ellice Avenue, Winnipeg, Manitoba. At the Wholesale Club.",
     "gps": "N49°53.692 W97°12.255",
-    "initDate": "7/3/2016.",
+    "initDate": "3 July 2016",
     "productionReady": "yes"
   },
   {
@@ -14592,7 +14593,7 @@
     "url": "/bdino",
     "location": "On Highway 7, beside Merit Manufacturing.",
     "gps": "N43°29.258 W080°24.982",
-    "initDate": "7/5/2016.",
+    "initDate": "5 July 2016",
     "productionReady": "yes"
   },
   {
@@ -14605,7 +14606,7 @@
     "url": "/bcactus",
     "location": "2615 Victoria Street North, beside Belgian Nursery.",
     "gps": "N43 29.784 W080 23.903",
-    "initDate": "7/5/2016.",
+    "initDate": "5 July 2016",
     "productionReady": "yes"
   },
   {
@@ -14618,7 +14619,7 @@
     "url": "/kchair",
     "location": "97 Ardelt Ave., Unit 3, Kitchener, Ontario.",
     "gps": "N43°25.515 W80°28.707",
-    "initDate": "7/9/2016.",
+    "initDate": "9 July 2016",
     "productionReady": "yes"
   },
   {
@@ -14629,10 +14630,10 @@
     "type": "Vegetables/Flowers",
     "archive": false,
     "url": "/oatstem",
-    "location": "11 Main Street South, Ituna, Saskatchewan",
+    "location": "11 Main Street South, Ituna, Saskatchewan.",
     "gps": "N51°10.205 W103°29.747",
     "description": "Steel sculpture, 34 feet tall, 2000 pounds. Engineered and fabricated by Dennis Muzyka. Unveiled on June 28, 2014. http://www.ituna.ca/Pdf/The%20Oat%20Stem%20Story.pdf",
-    "initDate": "7/15/2016.",
+    "initDate": "15 July 2016",
     "productionReady": "yes"
   },
   {
@@ -14645,7 +14646,7 @@
     "url": "/wheatmelville",
     "location": "Highway 10, at Welcome sign, west of Melville.",
     "description": "<a href=\"http://www.melville.ca/content/silhouettes-melville\">More info.</a> ",
-    "initDate": "7/17/2016.",
+    "initDate": "17 July 2016",
     "productionReady": "yes"
   },
   {
@@ -14656,8 +14657,8 @@
     "type": "Furniture",
     "archive": false,
     "url": "/bluechair",
-    "location": "Station Beach, Kincardine",
-    "initDate": "7/20/2016.",
+    "location": "Station Beach, Kincardine.",
+    "initDate": "20 July 2016",
     "productionReady": "yes"
   },
   {
@@ -14668,7 +14669,7 @@
     "type": "Vegetables/Flowers",
     "archive": false,
     "url": "/flowers",
-    "initDate": "7/22/2016.",
+    "initDate": "22 July 2016",
     "productionReady": "yes"
   },
   {
@@ -14681,7 +14682,7 @@
     "url": "/vandino",
     "location": "1455 Quebec Street, Vancouver, British Columbia. At the Telus World of Science.",
     "gps": "N49°16.393 W123°06.183",
-    "initDate": "8/13/2016.",
+    "initDate": "13 August 2016",
     "productionReady": "yes"
   },
   {
@@ -14693,7 +14694,7 @@
     "archive": false,
     "url": "/lcra1446",
     "location": "Just east of Caroline, north of Highway 54/22, near Range Road 60.",
-    "initDate": "8/20/2016.",
+    "initDate": "20 August 2016",
     "productionReady": "yes"
   },
   {
@@ -14706,7 +14707,7 @@
     "url": "/lcra1447",
     "location": "100 Kleefer Place, Vancouver, British Columbia.",
     "gps": "N49°16.788 W123°06.488",
-    "initDate": "8/28/2016.",
+    "initDate": "28 August 2016",
     "productionReady": "yes"
   },
   {
@@ -14719,7 +14720,7 @@
     "url": "/lcra1448",
     "location": "110 Main Street North, Exeter, Ontario, outside MacLean's Home Hardware.",
     "gps": "N43°21.555 W81°28.979",
-    "initDate": "8/28/2016.",
+    "initDate": "28 August 2016",
     "productionReady": "yes"
   },
   {
@@ -14732,7 +14733,7 @@
     "url": "/lcra1449",
     "location": "Duffs Corner Plaza - 1172 Wilson Street West, Ancaster, Ontario.",
     "gps": "N43°11.803 W80°01.219",
-    "initDate": "8/28/2016.",
+    "initDate": "28 August 2016",
     "productionReady": "yes"
   },
   {
@@ -14746,7 +14747,7 @@
     "location": "4928 50th Avenue, Vegreville, Alberta. This horse is perched on top of Cole's Western Wear.",
     "gps": "N53°29.666 W112°03.109",
     "description": "<a href=\"http://www.coleswesternwear.com/\">More info.</a>",
-    "initDate": "8/29/2016.",
+    "initDate": "29 August 2016",
     "productionReady": "yes"
   },
   {
@@ -14760,7 +14761,7 @@
     "location": "395 Princess St, Kingston, Ontario, at the Grizzly Grill.",
     "gps": "N44°13.985 W76°29.518",
     "description": "<a href=\"http://www.thegrizzlygrill.ca/\">More info.</a>",
-    "initDate": "8/29/2016.",
+    "initDate": "29 August 2016",
     "productionReady": "yes"
   },
   {
@@ -14773,7 +14774,7 @@
     "url": "/lcra1452",
     "location": "1437 Arlington Street, Winnipeg.",
     "gps": "N49°55.196 W97°09.359",
-    "initDate": "8/30/2016.",
+    "initDate": "30 August 2016",
     "productionReady": "yes"
   },
   {
@@ -14787,7 +14788,7 @@
     "location": "Mariner's Cove Boardwalk, 8863 Cavendish Road, Cavendish, PEI.",
     "gps": "N46°29.228 W63°23.792",
     "description": "Outside <a href=\"http://www.ripleys.com/cavendishbeach/\">Ripley's Believe It or Not.  </a>",
-    "initDate": "8/31/2016.",
+    "initDate": "31 August 2016",
     "productionReady": "yes"
   },
   {
@@ -14800,7 +14801,7 @@
     "url": "/lcra1454",
     "location": "Range Road 113, Bow Island, Alberta.",
     "gps": "N49°52.337 W111°25.581",
-    "initDate": "9/10/2016.",
+    "initDate": "10 September 2016",
     "productionReady": "yes"
   },
   {
@@ -14813,7 +14814,6 @@
     "url": "/lcra1455",
     "gps": "N55°41.824 W121°37.981",
     "description": "Note: This replaced the <a href=\"clumberjack.html\">original lumberjack</a> that had been installed at this location (and which is now located a few blocks away). ",
-    "initDate": "5/1/2016.",
     "productionReady": "yes"
   },
   {
@@ -14826,7 +14826,7 @@
     "url": "/lcra1456",
     "location": "Oak Bay Municipal Hall, 2167 Bay Avenue, Oak Bay, British Columbia",
     "gps": "N48°25.589 W123°19.024",
-    "initDate": "9/18/2016.",
+    "initDate": "18 September 2016",
     "productionReady": "yes"
   },
   {
@@ -14839,7 +14839,7 @@
     "url": "/lcra1457",
     "location": "Henderson Recreation Centre, 2291 Cedar Hill X Road, Oak Bay, British Columbia",
     "gps": "N48°27.333 W123°18.647",
-    "initDate": "9/18/2016.",
+    "initDate": "18 September 2016",
     "productionReady": "yes"
   },
   {
@@ -14852,7 +14852,7 @@
     "url": "/lcra1458",
     "location": "On the boardwalk, by the wharf.",
     "gps": "N48°38.895 W123°23.624",
-    "initDate": "9/18/2016.",
+    "initDate": "18 September 2016",
     "productionReady": "yes"
   },
   {
@@ -14863,9 +14863,9 @@
     "type": "People",
     "archive": false,
     "url": "/lcra1459",
-    "location": "Beacon Park",
+    "location": "Beacon Park.",
     "gps": "N48°38.953 W123°23.630",
-    "initDate": "9/18/2016.",
+    "initDate": "18 September 2016",
     "productionReady": "yes"
   },
   {
@@ -14878,7 +14878,7 @@
     "url": "/lcra1460",
     "location": "2070 Phillips Road, Sooke, B.C., near the tourist information booth.",
     "gps": "N48°23.059 W123°42.377\r",
-    "initDate": "9/25/2016.",
+    "initDate": "25 September 2016",
     "productionReady": "yes"
   },
   {
@@ -14892,21 +14892,21 @@
     "location": "Sunny Shores Resort & Marina, 5621 Sooke Rd., Sooke, B.C.",
     "gps": "N48°23.483 W123°39.885",
     "description": "<a href=\"http://www.sunnyshoresresort.com/\">More info.</a>",
-    "initDate": "9/25/2016.",
+    "initDate": "25 September 2016",
     "productionReady": "yes"
   },
   {
-    "name": "Show",
+    "name": "Shoe",
     "credit": "<a href=\"mailto:hirning@shaw.ca\">Lorraine Hirning</a>",
     "city": "Parksville",
     "province": "British Columbia",
     "type": "Miscellaneous",
     "archive": false,
     "url": "/lcra1462",
-    "location": "Paradise Fun Park, 375 West Island Hwy, Parksville, Vancouver Island, BC",
+    "location": "Paradise Fun Park, 375 West Island Hwy, Parksville, Vancouver Island, BC.",
     "gps": "N49°19.394 W124°19.372\r",
     "description": "<a href=\"http://paradisefunpark.net/\">More info.</a>",
-    "initDate": "10/15/2016.",
+    "initDate": "15 October 2016",
     "productionReady": "yes"
   },
   {
@@ -14917,9 +14917,9 @@
     "type": "Vegetables/Flowers",
     "archive": false,
     "url": "/lcra1463",
-    "location": "Carrot Park, Port Hardy, BC",
+    "location": "Carrot Park, Port Hardy, BC.",
     "gps": "N50°43.474 W127°29.517",
-    "initDate": "10/15/2016.",
+    "initDate": "15 October 2016",
     "productionReady": "yes"
   },
   {
@@ -14932,7 +14932,7 @@
     "url": "/lcra1464",
     "location": "Monterey Recreation Centre - 4W1, 1442 Monterey Avenue, Oak Bay, BC",
     "gps": "N48°25.540 W123°18.880",
-    "initDate": "10/22/2016.",
+    "initDate": "22 October 2016",
     "productionReady": "yes"
   },
   {
@@ -14945,7 +14945,7 @@
     "url": "/lcra1465",
     "location": "Campbell River Visitor Centre, 1235 Shoppers Row, Campbell River, BC",
     "gps": "N50°01.571 W125°14.632",
-    "initDate": "10/22/2016.",
+    "initDate": "22 October 2016",
     "productionReady": "yes"
   },
   {
@@ -14958,7 +14958,7 @@
     "url": "/lcra1466",
     "location": "CR Granite Works - 1581 15th Avenue, Campbell River, BC",
     "gps": "N50°01.785 W125°15.885",
-    "initDate": "10/23/2016.",
+    "initDate": "23 October 2016",
     "productionReady": "yes"
   },
   {
@@ -14972,7 +14972,7 @@
     "location": "4485 Trans-Canada Hwy, Duncan, BC",
     "gps": "N48°43.762 W123°38.349",
     "description": "<a href=\"http://www.equineemporium.ca/\">More info.</a>",
-    "initDate": "10/29/2016.",
+    "initDate": "29 October 2016",
     "productionReady": "yes"
   },
   {
@@ -14985,7 +14985,7 @@
     "url": "/lcra1468",
     "location": "1046 Cedar Street, Campbell River, BC",
     "gps": "N50°01.566 W125°14.825",
-    "initDate": "10/29/2016.",
+    "initDate": "29 October 2016",
     "productionReady": "yes"
   },
   {
@@ -14996,7 +14996,7 @@
     "type": "Furniture",
     "archive": false,
     "url": "/lcra1469",
-    "initDate": "11/6/2016.",
+    "initDate": "6 November 2016",
     "productionReady": "yes"
   },
   {
@@ -15010,7 +15010,7 @@
     "location": "Recreation Road, just off Shawnigan Lake Road, Shawnigan, BC",
     "gps": "N48°38.530 W123°37.566",
     "description": "Artist: <a href=\" http://www.shawniganfocus.ca/Vault/April%202012/ShawniganFocusApril%202012.pdf\">Randy Malone. </a>",
-    "initDate": "11/6/2016.",
+    "initDate": "6 November 2016",
     "productionReady": "yes"
   },
   {
@@ -15024,7 +15024,7 @@
     "location": "McPhillips Street and Court Avenue, at the north entrance to Seven Oaks Hospital",
     "gps": "N49°57.322 W97°08.824",
     "description": "<a href=\"http://www.winnipegreflections.com/bears_On_Broadway.php\">More info.</a>",
-    "initDate": "11/27/2016.",
+    "initDate": "27 November 2016",
     "productionReady": "yes"
   },
   {
@@ -15037,7 +15037,7 @@
     "url": "/lcra1472",
     "location": "5020-49th Street, Lacombe, Alberta, at the Lacombe Blacksmith Museum.",
     "gps": "N52°27.826 W113°43.764",
-    "initDate": "11/27/2016.",
+    "initDate": "27 November 2016",
     "productionReady": "yes"
   },
   {
@@ -15050,7 +15050,7 @@
     "url": "/lcra1473",
     "location": "\r\nAulac Big Stop Restaurant - 170 Aulac Rd., Sackville, New Brunswick",
     "gps": "N45°52.188 W64°16.825",
-    "initDate": "12/17/2016.",
+    "initDate": "17 December 2016",
     "productionReady": "yes"
   }
 ]}
